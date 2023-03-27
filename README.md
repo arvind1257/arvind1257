@@ -11,5 +11,5 @@
 - 😄 Pronouns: ...He/Him
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind1257&layout=compact)](https://github.com/arvind1257/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvind1257&layout=compact" />
 </div>
